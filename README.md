@@ -1,6 +1,6 @@
 # Hi, I'm Alvaro 👋
 
-> AI Software Engineer Intern @ Thales SIX GTS · ESILV Data & AI · Paris
+> AI Software Engineer Intern @ Thales SIX GTS France · ESILV Data & AI · Paris
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a 4th-year engineering student at ESILV (Paris) specialising in Data & AI, currently interning at **Thales SIX GTS** (Gennevilliers) as an AI Software Engineer within the embedded software department for aeronautics.
+I'm a 4th-year engineering student at ESILV (Paris) specialising in Data & AI, currently interning at **Thales SIX GTS France** (Gennevilliers) as an AI Software Engineer within the embedded software department for aeronautics.
 
 I'm working on two projects in parallel: an LLM-powered tool to analyse the quality and consistency of software requirements and automatically generate test cases (using Mistral via the internal Thales API), and a Pull Request Bot in Rust that automates part of code review by integrating with Bitbucket, Jira, and LLMs.
 
@@ -34,7 +34,7 @@ I enjoy building projects that solve real problems — from causal discovery pip
 
 **Languages:** Python · Rust · Java · JavaScript · Swift / SwiftUI · SQL
 
-**AI / ML:** TensorFlow · PyTorch · Scikit-learn · Pandas · LLMs · NLP · Computer Vision
+**AI / ML:** TensorFlow · PyTorch · Scikit-learn · Pandas · LLMs · RAG pipelines · NLP · Computer Vision
 
 **Tools & infra:** Git · GitHub · Docker · Jupyter · Jira · Bitbucket
 
