@@ -1,51 +1,27 @@
-# Hi, I'm Alvaro 👋
+### Hi, I'm Alvaro
 
-> AI Software Engineer Intern @ Thales SIX GTS France · ESILV Data & AI · Paris
+Final-year engineering student at [ESILV](https://www.esilv.fr/en/) in Paris (Diplôme d'Ingénieur, Data & AI, graduating 2027). I build ML and LLM systems, and I'm looking for a 6-month internship in machine learning or applied AI starting February 2027.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Selected work**
 
----
+| Project | What it is |
+|---|---|
+| [Bitcoin causal factor investing](https://github.com/Nicolascos/Bitcoin-causal-factor-investing) | Causal discovery pipeline (PC, NOTEARS, PCMCI, DoWhy) that narrows 288 candidate Bitcoin return drivers to 10. Run with Ginjer AM. |
+| [Wikipedia KG + RAG pipeline](https://github.com/alvaro-serero/wikipedia-kg-rag-pipeline) | Crawling, NER and relation extraction, OWL ontology, Wikidata alignment, PyKEEN embeddings and a natural-language-to-SPARQL assistant. |
+| [MiaouFlow](https://github.com/KellianVK/mistral-vibe) | Multi-agent orchestration for the Mistral Vibe CLI. Top 6 at Mistral AI's Paris hackathon. I built the live agent dashboard and the subagent communication harness. |
+| [Medical image retrieval](https://github.com/alvaro-serero/ehl-paris-2026-medical-retrieval) | European Hackathon League Paris (Inria, Paris Brain Institute). 5th of 22 teams. |
+| [Python Maker Bot](https://github.com/alvaro-serero/python-maker-bot) | Rust CLI that generates, lints and runs Python code with LLMs in a Docker sandbox. |
+| [ML foundations](https://github.com/alvaro-serero/ml-foundations) | Core ML and deep learning implemented from scratch in NumPy, tested against PyTorch. |
+| [GradePace](https://gradepace.vercel.app) | Trail-race pacing web app (React, TypeScript), runs fully in the browser. |
 
-## About me
+**Experience**
 
-I'm a 4th-year engineering student at ESILV (Paris) specialising in Data & AI, currently interning at **Thales SIX GTS France** (Gennevilliers) as an AI Software Engineer within the embedded software department for aeronautics.
+AI software engineer intern at Thales (Apr to Sep 2026), embedded aeronautics software. I built an LLM tool that reviews software requirements and suggests corrections, and rewrote a pull-request review bot (Python, Bitbucket, Jira, Jenkins). That code is internal.
 
-I'm working on two projects in parallel: an LLM-powered tool to analyse the quality and consistency of software requirements and automatically generate test cases (using Mistral via the internal Thales API), and a Pull Request Bot in Rust that automates part of code review by integrating with Bitbucket, Jira, and LLMs.
+**Stack**
 
-I enjoy building projects that solve real problems — from causal discovery pipelines on financial data to NLP recommenders and autonomous trading bots. Always looking for the next thing to learn and ship.
+Python, PyTorch, scikit-learn, pandas · LLMs, RAG · SQL · Rust, TypeScript · Docker, Git
 
----
+**Elsewhere**
 
-## Currently working on
-
-- LLM-based requirements analyser & test case generator @ Thales (Python, Mistral)
-- PR Bot in Rust — Bitbucket + Jira + LLM integration @ Thales
-- Training for the **Imperial Trail de Fontainebleau** — 70 km / 1130 m D+ (September 2026)
-
----
-
-## Skills
-
-**Languages:** Python · Rust · Java · JavaScript · Swift / SwiftUI · SQL
-
-**AI / ML:** TensorFlow · PyTorch · Scikit-learn · Pandas · LLMs · RAG pipelines · NLP · Computer Vision
-
-**Tools & infra:** Git · GitHub · Docker · Jupyter · Jira · Bitbucket
-
----
-
-## Beyond the screen
-
-Trail runner & road racer — Ecotrail Paris (35 & 47 km), Marathon de Chantilly, UTCT PT55 in Cape Town (55 km / 2700 m D+), Paris-Versailles. Hybrid athlete: gym 3×/week + high-volume running. Also into bouldering (6C–7A).
-
----
-
-## Connect
-
-📎 [LinkedIn](https://www.linkedin.com/in/alvaroserero/)
+[LinkedIn](https://www.linkedin.com/in/alvaroserero/) · Off the keyboard: trail running and bouldering.
